@@ -9,6 +9,9 @@
   > 고소하고 묵직한 바디 
   
   견과류의 고소한 향미와 구수한 맛, 달콤함이 특징. 산미가 약하고 묵직한 바디감이 여운으로 남는 원두,
+  
+  <img src="assets/images/2017-03-16-03-01-54.png" height="50" />
+
 
 - [브라질 레드버번](http://www.wangssan.com/shop/goods/goods_view.php?&goodsno=1105)
 
@@ -16,6 +19,7 @@
 
    은은하고 달콤한 향미, 입안 가득한 감칠맛과 적당한 산미, 달콤함이 조화로운 원두.
 
+  <img src="assets/images/2017-03-16-03-03-56.png" height="50" />
 
 ## Tutorial 
 
