@@ -75,7 +75,8 @@ Jpeg이 대표적인 intra coding의 예이다. 아래와 같은 기법을 사�
 
 # CODEC
 
-* Level : codec의 encoding, decoding 성능에 따른 분류* Profile :  codec에서 지원하는 기능의 사용유무에 따른 구분
+* Level : codec의 encoding, decoding 성능에 따른 분류
+* Profile :  codec에서 지원하는 기능의 사용유무에 따른 구분
 
   ex) H.264
 
@@ -95,3 +96,4 @@ Jpeg이 대표적인 intra coding의 예이다. 아래와 같은 기법을 사�
 * https://www.researchgate.net/
 
 
+my second commits.
