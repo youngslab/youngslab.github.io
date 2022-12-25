@@ -21,16 +21,22 @@ comments: true
 ## `Ctrl + C` vs. `Capslock + C`
 자그럼 여기서 한번 어떤 점이 효율적인지 한번 살펴 보자. ctrl은 단독으로 사용되지 않는다. 보통 다른 키와 함께 같이 눌리게 되는데 이때 왼쪽 가장 끝에 있는 ctrl을 누른채 다른키 누르기 위해서는 손목이 기역자 처럼 꺽이게 된다. 예를 들어 copy를 하기 위해 ctrl+c ctrl+v를 한다고 했을 경우 타이핑을 하다가 손목을 기역자로 꺽어서 ctrl+c 한뒤 다시 손목을 원상태로 풀어 다시 타이핑을 한다. 누가 이렇게 하냐고 물을 수 있지만.. 지금 바로 해 보시라. 진짜 그러고 있다. 해본 김에 반대로 capslock을 ctrl이라 생각하고 복사 단축키를 눌러 보면 얼마나 불편하게 사용하고 있는지 느껴질 것이다.
 
-|capslock|ctrl|
-|:---|:---|
-|![](assets/images/SE-1cab4793-70ad-462c-bc51-a78ecb470899.jpg)|![](assets/images/SE-deabbee8-841a-4e7e-8e46-e5f3e4e23ca4.jpg)|
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
 
-![](assets/images/SE-1cab4793-70ad-462c-bc51-a78ecb470899.jpg)
+|capslock + c |ctrl + c|
+|:---:|:---:|
+|![](/assets/images/SE-1cab4793-70ad-462c-bc51-a78ecb470899.jpg)|![](/assets/images/SE-deabbee8-841a-4e7e-8e46-e5f3e4e23ca4.jpg)|
 
-![](assets/images/SE-deabbee8-841a-4e7e-8e46-e5f3e4e23ca4.jpg)
 
 ## 결론 
-그러니 지금 당장 당신의 쓸모없는 capslock을 ctrl로 바꾸길 추천한다! 아마도 일년에 ctrl+c를 누를 횟수만큼 더 빠르 손목을 건강히 사용할수 있을 것이다.
+지금 당장 당신의 쓸모없는 capslock을 ctrl로 바꾸길 추천한다! 아마도 일년에 ctrl+c를 누를 횟수만큼 더 빠르 손목을 건강히 사용할수 있을 것이다.
 
 
 내가 당당히 바꾸라 외쳤지만... 고백하건데 단점이 하나 있다. 내 PC를 사용하는 동안에는 더할 나위 없이 만족하면서 쓰겠지만, 내 pc가 아닌 환경에서는 자꾸 대문자로 변환된 영문이 썼다 지웠다를 반복하게 될 것이다. 새로운 매번 바꿔주는 것도 일이다.
