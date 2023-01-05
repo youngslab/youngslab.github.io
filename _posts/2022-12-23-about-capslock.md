@@ -7,6 +7,7 @@ tags:
   - capslock
   - ctrl
 comments: true
+toc: true
 ---
 
 키보드중에서 가장 사용하지 않는 키는 무엇일까? 나는 단연 capslock인 것 같다. 어떻게 보면 가장 동선이 좋은 위치에 (오른쪽의 enter와 같은 위치) 있으면서 잘 쓰지 않는 비효율의 극치라고 생각한다.
