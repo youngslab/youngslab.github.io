@@ -8,11 +8,16 @@ tags:
   - Compile
 comments: true
 toc: true
+toc_sticky: true
 ---
 
 Compiler option은 compiler들 마다 다르다. 동일한 것도 있지만 표준화 되어 있는 것은 아니기에 다른 compiler에서 알 수 없는 option들도 있다. 하나의 코드를 여러개의 compiler로 빌드한다면 옵션들이 뒤죽박죽 섞일 수도 있다.  
 
-GNU에서 GNU에 정의 되지 않는 옵션과 함께 빌드를 하다보면 warning이 발생하는데 이 부분이 조금 신기해서 그을 남겨 본다. 
+GNU에서 GNU에 정의 되지 않는 옵션과 함께 빌드를 하다보면 warning이 발생하는데 이것 저것 실험해 본 결과와 그러부터 발견한 사실을 남긴다. 
+
+<center>
+<img src="/assets/images/2023-03-04-12-22-02.png" width="200"/>
+</center>
 
 ## 실험 1. `-Wxxx`  or `nullability-completeness`
 
@@ -54,3 +59,7 @@ target_compile_options(foo PRIVATE -Wno-nullability-completeness
 
 ## 참고
 GNU 10.2 부터는 warning이 아니라 note로 변경되어 "warning as error" 도 발생 하지 않는다.
+
+## 마치며
+GNU에서 정의 되지 않는 옵션값이 사용되면 error, `no-`가 추가 되면 보통 무시되지만 다른 warning과 함께라면 다시 등장한다. (GNU 10.2<)
+같은 이유로 궁금해 하던 사람이 괜히 시간낭비 안하게 지나가던 길에 이 글을 보길 바라며 마친다.
