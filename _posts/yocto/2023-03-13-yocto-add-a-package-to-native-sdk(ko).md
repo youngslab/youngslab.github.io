@@ -1,11 +1,10 @@
 ---
-title: "Yocto: Add a package to Native SDK (eng)"
+title: "Yocto: Add a package to Native SDK (en)"
 categories:
   - yocto
 tags:
   - nativesdk
   - yocto
-  - eng
 comments: true
 toc: true
 toc_sticky: true
